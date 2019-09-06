@@ -1,0 +1,871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"days",
+				"daysLeft"
+			],
+			[
+				"gust",
+				"guestlist"
+			],
+			[
+				"guest",
+				"guestlist"
+			],
+			[
+				"curr",
+				"currentPhoto"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"deg",
+				"degrees"
+			],
+			[
+				"cu",
+				"currentPhotoIndex"
+			],
+			[
+				"photo",
+				"photoId"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"song",
+				"songlist"
+			],
+			[
+				"prev",
+				"previewUrl"
+			],
+			[
+				"c",
+				"cover  (value)"
+			],
+			[
+				"background-p",
+				"background-repeat"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"$state",
+				"$stateParams"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ed",
+				"edit-invitation"
+			],
+			[
+				"invite",
+				"invite-guests"
+			],
+			[
+				"backgroud-posi",
+				"-ms-background-position-x:   (property)"
+			],
+			[
+				"css",
+				"csssmoothtext	CSS Smooth Text"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"sco",
+				"$scope	AngularJS"
+			],
+			[
+				"route",
+				"routeParams"
+			],
+			[
+				"redirect",
+				"redirectTo"
+			],
+			[
+				"rou",
+				"routeParams"
+			],
+			[
+				"r",
+				"routeParams"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"val",
+				"valService"
+			],
+			[
+				"cons",
+				"constService"
+			],
+			[
+				"filter",
+				"filtered"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"total",
+				"total_incomes  (variable)"
+			],
+			[
+				"payment",
+				"payment_amount"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"do",
+				"download"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"no_",
+				"no_italic"
+			],
+			[
+				"goo",
+				"googleRemarketing"
+			],
+			[
+				"inter",
+				"intercomIo"
+			],
+			[
+				"google",
+				"googleAnalytics"
+			],
+			[
+				"trn",
+				"text-transform"
+			],
+			[
+				"jquery",
+				"jquerytimeout	jQuery Timeout"
+			],
+			[
+				"jque",
+				"jquerybindclick	jQuery Bind Click to non existant object"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"a",
+				"array	$… = array (…)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/js/controllers/app.controller.js",
+			"settings":
+			{
+				"buffer_size": 23251,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"tim",
+				"Snippet: setTimeout function"
+			],
+			[
+				"time",
+				"Snippet: setTimeout function"
+			],
+			[
+				"smoo",
+				"Snippet: CSS Smooth Text"
+			],
+			[
+				"timeout",
+				"Snippet: setTimeout function"
+			],
+			[
+				" media",
+				"Snippet: CSS Mobile media queries"
+			],
+			[
+				"timeo",
+				"Snippet: setTimeout function"
+			],
+			[
+				"cssre",
+				"Snippet: HTML5DOCTOR CSS Reset"
+			],
+			[
+				"html",
+				"Snippet: html5"
+			],
+			[
+				"text",
+				"Snippet: CSS Smooth Text"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"angular",
+				"Snippet: Angular NG-Cloak Setup"
+			],
+			[
+				"snippet on",
+				"Snippet: jQuery Document Ready"
+			],
+			[
+				"snip media",
+				"Snippet: CSS Mobile media queries"
+			],
+			[
+				"snip css",
+				"Snippet: HTML5DOCTOR CSS Reset"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"snip contro",
+				"Snippet: Route-controller"
+			],
+			[
+				"snip route get",
+				"Snippet: Route-get"
+			],
+			[
+				"snippet rou",
+				"Snippet: Route-before"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pacl",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"snippt",
+				"Snippet: jQuery for Each loop"
+			],
+			[
+				"PACKA",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"jqu",
+				"Snippet: jqueryDocReady"
+			],
+			[
+				"jque",
+				"Snippet: jqueryEach"
+			],
+			[
+				"jquery",
+				"Snippet: jqueryDocReady"
+			],
+			[
+				"snippet",
+				"Snippet: cssclearfix"
+			],
+			[
+				"css res",
+				"Snippet: cssreset"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"sn",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"controller",
+				"Snippet: Controller-getFilterer"
+			],
+			[
+				"snippet route get",
+				"Snippet: Route-get"
+			],
+			[
+				"snippet contr",
+				"Snippet: Route-controller"
+			],
+			[
+				"snippet: trans",
+				"Snippet: Lang-trans"
+			],
+			[
+				"syntax",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"Laravel ",
+				"Laravel Generate: Model"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Laravel se",
+				"Laravel Artisan: Serve"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"console.log('sdafasf');"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/novakben/Apps/wediapp",
+		"/Users/novakben/Apps/wediapp/plugins",
+		"/Users/novakben/Apps/wediapp/www",
+		"/Users/novakben/Apps/wediapp/www/css",
+		"/Users/novakben/Apps/wediapp/www/js",
+		"/Users/novakben/Apps/wediapp/www/js/controllers",
+		"/Users/novakben/Apps/wediapp/www/templates"
+	],
+	"file_history":
+	[
+		"/Users/novakben/Apps/wediapp/config.xml",
+		"/Users/novakben/Apps/wediapp/www/templates/guest-list.html",
+		"/Users/novakben/Apps/wediapp/www/js/app.js",
+		"/Users/novakben/Apps/wediapp/www/js/controllers/app.controller.js",
+		"/Users/novakben/Apps/wediapp/platforms/android/AndroidManifest.xml",
+		"/Users/novakben/Apps/wediapp/www/js/controllers/song.controller.js",
+		"/Users/novakben/Apps/wediapp/www/templates/menu.html",
+		"/Users/novakben/Apps/wediapp/www/index.html",
+		"/Users/novakben/Apps/wediapp/www/templates/home.html",
+		"/Users/novakben/Apps/wediapp/www/css/style.css",
+		"/Users/novakben/Apps/wediapp/www/templates/photo.html",
+		"/Users/novakben/Apps/wediapp/www/templates/wedding-album.html",
+		"/Users/novakben/Apps/wediapp/www/js/controllers/album.controller.js",
+		"/Users/novakben/Apps/wediapp/www/templates/rateus.html",
+		"/Users/novakben/Apps/wediapp/www/js/controllers/invite.controller.js",
+		"/Users/novakben/Apps/wediapp/www/js/controllers/home.controller.js",
+		"/Users/novakben/Apps/wediapp/plugins/org.pushandplay.cordova.apprate/www/AppRate.js",
+		"/Users/novakben/Apps/wediapp/www/js/controllers/edit.controller.js",
+		"/Users/novakben/Apps/wediapp/www/js/controllers/guest.controller.js",
+		"/Users/novakben/Apps/wediapp/www/js/controllers/book.controller.js",
+		"/Users/novakben/Apps/wediapp/www/templates/guest-book.html",
+		"/Users/novakben/Apps/wediapp/www/templates/song-list.html",
+		"/Users/novakben/Apps/wediapp/www/templates/login.html",
+		"/Users/novakben/Apps/wediapp/www/js/jquery.swipebox.js",
+		"/Users/novakben/Apps/wediapp/www/js/photoswipe.js",
+		"/Users/novakben/Apps/wediapp/www/templates/onboarding.html",
+		"/Users/novakben/Apps/wediapp/www/js/controllers.js",
+		"/Users/novakben/Apps/wediapp/www/js/home.controller.js",
+		"/Users/novakben/Apps/wediapp/www/js/song.controller.js",
+		"/Users/novakben/Apps/wediapp/www/templates/edit-invitation.html",
+		"/Users/novakben/Apps/wediapp/www/css/photoswipe.css",
+		"/Users/novakben/Apps/wediapp/www/templates/song.html",
+		"/Users/novakben/Apps/wediapp/package.json",
+		"/Users/novakben/Apps/wediapp/ionic.project",
+		"/Users/novakben/Apps/wediapp/bower.json",
+		"/Users/novakben/Apps/wediapp/www/templates/invite-guests.html",
+		"/Users/novakben/Apps/wediapp/www/img/login-logo.svg",
+		"/Users/novakben/Apps/wediapp/www/templates/playlists.html",
+		"/Users/novakben/Desktop/index.html",
+		"/Users/novakben/Apps/wediapp/plugins/com.localytics.phonegap.LocalyticsPlugin/plugin.xml",
+		"/Users/novakben/Apps/wedinew/plugins/org.apache.cordova.console/NOTICE",
+		"/Users/novakben/Apps/wedinew/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h",
+		"/Users/novakben/Apps/wedinew/platforms/ios/build/wedinew.build/Debug-iphonesimulator/wedinew.build/Objects-normal/i386/MainViewController.d",
+		"/Users/novakben/Apps/wedivite/src/js/controllers/main_controller.js",
+		"/Users/novakben/Apps/wedivite/package.json",
+		"/Users/novakben/Apps/wedivite/src/less/app.less",
+		"/Users/novakben/Apps/wedivite/src/templates/home.html",
+		"/Users/novakben/Apps/wedivite/bower_components/jquery/src/var/hasOwn.js",
+		"/Users/novakben/Apps/appgyver/wedifirst/app/example/views/drawer.html",
+		"/Users/novakben/Library/Application Support/Sublime Text 3/Packages/User/Snippets/anguDirective.sublime-snippet",
+		"/Users/novakben/Library/Application Support/Sublime Text 3/Packages/User/Snippets/AnguController.sublime-snippet",
+		"/Users/novakben/Library/Application Support/Sublime Text 3/Packages/User/Snippets/anguPageBasic.sublime-snippet",
+		"/Users/novakben/Library/Application Support/Sublime Text 3/Packages/User/Snippets/angNgCloak.sublime-snippet",
+		"/Users/novakben/Sites/angu/index.html",
+		"/Users/novakben/Sites/angu/app.js",
+		"/Users/novakben/Apps/appgyver/wedifirst/config/structure.coffee",
+		"/Users/novakben/Apps/appgyver/wedifirst/app/example/views/song-list.html",
+		"/Users/novakben/Apps/appgyver/wedifirst/app/common/native-styles/ios.css",
+		"/Users/novakben/Apps/appgyver/wedifirst/app/geolocation/views/index.html",
+		"/Users/novakben/Apps/appgyver/wedifirst/app/geolocation/scripts/IndexController.js",
+		"/Users/novakben/Apps/appgyver/wedifirst/app/example/views/getting-started.html",
+		"/Users/novakben/Apps/appgyver/wedifirst/node_modules/grunt-steroids/node_modules/ag-resource-loader-raml/node_modules/lodash-node/compat/internals/eachIteratorOptions.js",
+		"/Users/novakben/Apps/appgyver/wedifirst/node_modules/grunt-steroids/node_modules/ag-resource-loader-raml/node_modules/lodash-node/compat/arrays/intersection.js",
+		"/Users/novakben/Apps/appgyver/wedifirst/node_modules/grunt-contrib-concat/node_modules/source-map/node_modules/amdefine/intercept.js",
+		"/Users/novakben/Apps/appgyver/wedifirst/node_modules/grunt-steroids/node_modules/ag-resource-loader-raml/node_modules/lodash-node/compat/internals/isNative.js",
+		"/Users/novakben/Apps/appgyver/wedifirst/app/common/index.js",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/jobs.php",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/company.php",
+		"/Users/novakben/Sites/wediviteV5/public/inc/css/baloon-animation",
+		"/Users/novakben/Sites/wediviteV5/vendor/bin/boris",
+		"/Users/novakben/Sites/wediviteV5/app/views/dashboard/home.blade.php",
+		"/Users/novakben/Sites/wediviteV5/app/helpers.php",
+		"/Users/novakben/Sites/wediviteV5/app/views/partials/trackingUsers.blade.php",
+		"/Users/novakben/Sites/wediviteV5/app/views/invitation/cover.blade.php",
+		"/Users/novakben/Sites/wediviteV5/public/inc/css/style.css",
+		"/Users/novakben/Sites/wediviteV5/app/views/dashboard/guests.blade.php",
+		"/Users/novakben/Sites/wediviteV5/app/views/layouts/dashboard.blade.php",
+		"/Users/novakben/Sites/wediviteV5/public/inc/js/banners.js",
+		"/Users/novakben/Sites/wediviteV5/app/views/dashboard/editFeatures.blade.php",
+		"/Users/novakben/Sites/wediviteV5/app/routes.php",
+		"/Users/novakben/Sites/wediviteV5/app/views/dashboard/editDesign.blade.php",
+		"/Users/novakben/Sites/wediviteV5/public/inc/themes/default/invitestyle.css",
+		"/Users/novakben/Sites/wediviteV5/app/controllers/DesignController.php",
+		"/Users/novakben/Sites/wediviteV5/app/views/partials/invitationColorCodes.blade.php",
+		"/Users/novakben/Apps/Wedidroidads/platforms/android/src/com/wedivite/app/Wedivite.java",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/digest.php",
+		"/Users/novakben/Sites/moburst/user.php",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/index.php",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/app.php",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/77435481-68F8-4E02-80C8-FA49B9C8E446/bizpage.php",
+		"/Users/novakben/Sites/wedivite/apiv2/info.php",
+		"/Users/novakben/Sites/wediviteV5/apitest.html",
+		"/Users/novakben/Desktop/namecom_api.php",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/6B59C15C-C3B5-4AA2-BBB3-EB7983212E7A/comments.hbs",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/07EF1663-82E9-4316-A4CC-26961500B80A/post.hbs",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/1E85E434-DF16-43DF-B5E0-496FE6C8CC2F/default.hbs",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/2AC5893E-B817-4E6C-B514-521214B42E90/sidebar.hbs",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/4D2D5AFB-90D9-419D-A842-095E11F68B1E/comments.hbs",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/325C516A-3C5A-492B-95D5-102C515AFD39/post.hbs",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/079B69C0-82E6-4F77-AB20-AA9F72F6FF7E/post.hbs",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/A86D484E-5FA6-4ADC-9B60-00939AC63CC9/post.hbs",
+		"/Users/novakben/Sites/wedivite/inc/func/analytics.func.php",
+		"/Users/novakben/Sites/wedivite/apiv2/login.php",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/79A8FB4C-81F6-4754-AA8F-8A35EB179B03/app.php",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/48320B73-5DF4-4048-A262-8866E4FE63F0/app.php",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/DBA69344-D7EF-414A-98B5-6E461B70E990/storage.php",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/2D4897DD-E5B6-4C2C-91AC-D88CAA2C19AB/storage.php",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/419F9469-2342-403A-B0B6-09CFF2908B1A/database.php",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/C1450C7D-006F-424F-90A1-3F960BBA410C/database.php",
+		"/Users/novakben/Sites/wedivite/backalot/dumpme.php",
+		"/Users/novakben/Library/Caches/Cleanup At Startup/Transmit/39804858-3D44-40A3-951A-094684BBE5B6/app.php",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/InvitationController.php",
+		"/Users/novakben/Sites/wediviteV5/composer.json",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/album.php",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/pic.php",
+		"/Users/novakben/Sites/wediviteV5/production_configs/database.php",
+		"/Users/novakben/Sites/wediviteV5/production_configs/app.php",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/checkweddings.php",
+		"/Users/novakben/Sites/wedivite/ghosthunter.php",
+		"/Users/novakben/Sites/wedivite/lang/spanish.php",
+		"/Users/novakben/Sites/wedivite/lang/korean.php",
+		"/Users/novakben/Desktop/oldstyle.css",
+		"/private/var/folders/k4/z1vhr4bd6z1grywk79jt_g_40000gn/T/fz3temp-1/style.css",
+		"/Users/novakben/Sites/wediviteV5/app/start/global.php",
+		"/Users/novakben/Sites/wediviteV5/app/start/local.php",
+		"/Users/novakben/Sites/wediviteV5/app/config/app.php",
+		"/Users/novakben/Sites/wediviteV5/app/views/dashboard/editUrl.blade.php",
+		"/Users/novakben/Sites/wediviteV5/app/views/dashboard/editRegistry.blade.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"No guest",
+			"Darn!",
+			"adbud",
+			"navigate",
+			"showDialog",
+			"prompt",
+			"loadingImg",
+			"home",
+			"localy",
+			"noguests",
+			"login",
+			"@media",
+			"console.log",
+			"confirm",
+			".controller",
+			"controller",
+			"ion-cli",
+			"song",
+			"del",
+			"addrsvp",
+			"guest-li",
+			"guestCount",
+			"noguests",
+			"phototodelete",
+			"photoCate",
+			"kforma",
+			"login",
+			"scope.show",
+			"scroll",
+			"views",
+			"We can\\'t",
+			"transition",
+			"onboa",
+			"user not",
+			"$scope.waitForFinish();",
+			"finishedTasks",
+			"swipebox-top-b",
+			">/",
+			"#swipebox-bottom-bar",
+			"swipebox-bottom-bar",
+			"isMobile",
+			"$(\\'.current img\\')",
+			"swipebox-slider",
+			"img",
+			"bummer",
+			"length",
+			"songlist",
+			"goto",
+			"ion-side-menu",
+			"kFormatter",
+			"guest",
+			"scroll",
+			"border",
+			"ion-nav-bar",
+			"bar",
+			"nav",
+			"home",
+			"$",
+			"/album",
+			"/gallery",
+			"wedivite.com",
+			"deleted_non_active",
+			"('home')",
+			"(home)",
+			"forgot",
+			"flash",
+			"premi",
+			"prem",
+			"banner",
+			"zh",
+			"modal",
+			"facebook.com",
+			"download",
+			"login",
+			"log in",
+			"email address",
+			"Forgot Password",
+			"color: #fff",
+			"margin: 0 5",
+			"resized #logo",
+			"12953",
+			".page-id-12953 .header-7 #logo",
+			"#logo a img",
+			"#logo",
+			"body",
+			"glad",
+			"we are",
+			"digital wedding",
+			"iphone user",
+			"photo",
+			"cate",
+			"categ",
+			"catego",
+			"categoty",
+			"Select",
+			"Select a Photo Category",
+			"payp",
+			"@media",
+			"990",
+			"769",
+			"767",
+			"768",
+			"76",
+			"768",
+			"+",
+			"dashboard.invite.qr.button.download_for",
+			"QR",
+			"padding",
+			"margin",
+			"צשרעןמ",
+			"Code",
+			"wedivite",
+			"googleAnalytics",
+			"style",
+			"border",
+			"	-",
+			"footer",
+			"		\n",
+			"stylesheet",
+			"$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$scope.finishedTasks",
+			"$scope.kFormatter",
+			"980"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/js/controllers/app.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1838,
+								1838
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 556.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 27.0
+	},
+	"project": "wediapp.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"banner",
+				"public/inc/js/banners.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
